@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background: rgba(1, 1, 15, 0.96);
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    text-align: center;
+  }
+
+hr {
+    max-width: 90%;
+}
